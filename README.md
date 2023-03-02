@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![Screenshot](/images/Prime-huddle-landing-page(Mobile-View)
+![Screenshot](/images/Prime-huddle-landing-page(Mobile-View).png)
   
 ### Links
 
