@@ -78,6 +78,7 @@ button:hover{
     color:white;
     transition:.4s ease-in;
     cursor:pointer;
+    transform:scale(1.1);
 }
 
 footer{
@@ -98,6 +99,8 @@ footer{
     border:1px solid var(--hover-color);
     transition:.4s ease-in;
     cursor:pointer;
+    /*  */
+    transform:translateY(-10px);
 }
 
 .fa-facebook-f{
