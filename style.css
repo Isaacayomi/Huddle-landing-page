@@ -82,8 +82,11 @@ button:hover{
 }
 
 footer{
-    color:white;
     margin-top:3rem;
+}
+
+footer a{
+    color:white;
 }
 
 .fa-brands{
