@@ -17,8 +17,8 @@
   
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-single-introductory-section-RrosE5y93U
+- Live Site URL: https://huddle-landing-page-with-a-single-introductory-section-pi.vercel.app/
 ## My process
 
 ### Built with
